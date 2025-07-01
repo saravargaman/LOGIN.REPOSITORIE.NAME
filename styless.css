@@ -5,3 +5,6 @@ font-family: Arial, Helvetiva, sans-serif;
 div{
     background-color: rgb(102, 104, 219);
 }
+top: 50%
+left: 50%
+transform: translate:( 50 -50)
