@@ -1,2 +1,7 @@
-body
+body{
 font-family: Arial, Helvetiva, sans-serif;
+ background-color: rgb(21, 78, 26);
+}
+div{
+    background-color: rgb(102, 104, 219);
+}
